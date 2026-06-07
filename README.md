@@ -309,4 +309,4 @@ python3 generate_charts.py results/benchmark_results.csv results/
 
 ---
 
-> 🔗 **Link do projeto no GitHub:**
+> 🔗 **Link do projeto no GitHub:** https://github.com/marcus833/word-search-benchmark
